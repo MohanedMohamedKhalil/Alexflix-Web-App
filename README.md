@@ -12,7 +12,7 @@
     <a href="/Documentation.pdf"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://alex-flex-frontend.vercel.app/">View Demo</a>
+    <a href="https://alexflix-frontend-v2.vercel.app/">View Demo</a>
   </p>
 </div>
 
